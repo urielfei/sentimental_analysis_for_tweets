@@ -1,5 +1,7 @@
 Sentimental Analysis for Tweets
 
+See Jupyter [Notebook](research/research_notebook.ipynb) 
+
 This project is based on Kaggle [database](https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets) 
 
 Context <br>
