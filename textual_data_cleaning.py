@@ -38,6 +38,7 @@ def process_message(message, lower_case = True, stem = True, stop_words = True, 
 
         # special char
         message = re.sub(r'[^A-Za-z0-9]+', " ", message)
+        message = re.sub(r'[0-9]', " ", message)
 
         # message = re.sub(r"@+"," ", message)
 
